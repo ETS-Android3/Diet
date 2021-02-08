@@ -1,24 +1,28 @@
 ### <em><span style="color:#ff5339; font-family:'Georgia';">Project Information</span></em>
 --- 
-* <span style="color:#161daf;font-family:'Verdana';font-size:0.85em font-weight:bold">Project Name:</span>
+* Project Name: <br/>
 Diet
 <br>
-* <span style="color:#161daf;font-family:'Verdana';font-size:0.85em font-weight:bold">Project Team:</span>
+
+* Project Team: <br/>
 Fadıl Şahin
 <br>
-* <span style="color:#161daf;font-family:'Verdana';font-size:0.85em;font-weight:bold">Project Start Date:</span>
-August 2018
+
+* Project Date: <br/>
+July 2020
 <br>
-* <span style="color:#161daf;font-family:'Verdana';font-size:0.85em;font-weight:bold">Project State And Duration:</span>
+
+* Project State And Duration: <br/>
 Done, 3 days
 <br>
-* <span style="color:#161daf;font-family:'Verdana';font-size:0.85em;font-weight:bold">Project Description:</span>
-This app is developed to do a diet for myself and my family. With this app user can save gram of a food for one portion ( 1 portion is 50 kcal ) and calculate how much should I eat today to lose weight. There is no restriction to create only a food, mixed foods contains another foods inside can be created. Also these lists can be transfered other app users via internet. User just need its ip address. But for modems in home, there can be need to port forwarding for a specific device.
-<br>
-<div align="center">
 
- :exclamation: ***Usable apk is inside [images-and-apk](images-and-apk/Diet.apk) folder*** :exclamation:
-</div>
+* Project Description: <br/>
+This app is developed to do a diet for myself and my family. With this app user can save gram of a food for one portion ( 1 portion is 50 kcal ) and calculate how much should I eat today to lose weight. There is no restriction to create only a food, mixed foods contains another foods inside can be created. Also these lists can be transfered other app users via internet. User just need its ip address. But for modems in home, there can be need to port forwarding for a specific device.
+<br/>
+<br/>
+
+:exclamation: ***Usable apk is inside [images-and-apk](images-and-apk/Diet.apk) folder*** :exclamation:
+
 
 ### <em><span style="color:#ff5339; font-family:'Georgia';">Screenshots</span></em>
 ---
