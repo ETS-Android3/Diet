@@ -1,4 +1,4 @@
-###<em><span style="color:#ff5339; font-family:'Georgia';">Project Information</span></em>
+### <em><span style="color:#ff5339; font-family:'Georgia';">Project Information</span></em>
 --- 
 * <span style="color:#161daf;font-family:'Verdana';font-size:0.85em font-weight:bold">Project Name:</span>
 Diet
@@ -20,45 +20,38 @@ This app is developed to do a diet for myself and my family. With this app user 
  :exclamation: ***Usable apk is inside [images-and-apk](images-and-apk/Diet.apk) folder*** :exclamation:
 </div>
 
-###<em><span style="color:#ff5339; font-family:'Georgia';">Screenshots</span></em>
+### <em><span style="color:#ff5339; font-family:'Georgia';">Screenshots</span></em>
 ---
-![Menu](img1)
 
-**Menu Page**
+## Menu Page ##
+![Menu](./images-and-apk/1.png)
 
-![Today's Calculation](img2)
+## Today's Calculation Page ##
 
-**Today's Calculation Page**
+![Today's Calculation](./images-and-apk/2.png)
 
-![Search](img3)
+## Search Dialog ##
 
-**Search Dialog**
+![Search](./images-and-apk/3.png)
 
-![Add,delete and update food](img4)
+## Add,Delete And Update Food Page ##
 
-**Add,Delete And Update Food Page**
+![Add,delete and update food](./images-and-apk/4.png)
 
-![Add, Delete and Update Mixed Food](img5)
+## Add, Delete and Update Mixed Food Page ##
 
-**Add, Delete and Update Mixed Food Page**
+![Add, Delete and Update Mixed Food](./images-and-apk/5.png)
 
-![Month Analysis](img6)
+## Month Analysis Page ##
 
-**Month Analysis Page**
+![Month Analysis](./images-and-apk/6.png)
 
-![Transfer Food Datas](img7)
+## Food Data Transfering Page ##
 
-**Food Data Transfering Page**
+![Transfer Food Datas](./images-and-apk/7.png)
 
-![Example For All Info Dialogs](img8)
+## Example For All Info Dialogs ##
 
-**Example For All Info Dialogs**
+![Example For All Info Dialogs](./images-and-apk/8.png)
 
-[img1]: "images-and-apk/1.png"
-[img2]: "images-and-apk/2.png"
-[img3]: "images-and-apk/3.png"
-[img4]: "images-and-apk/4.png" 
-[img5]: "images-and-apk/5.png"
-[img6]: "images-and-apk/6.png"
-[img7]: "images-and-apk/7.png"
-[img8]: "images-and-apk/8.png"
+
