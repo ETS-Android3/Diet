@@ -1,4 +1,4 @@
-### <em><span style="color:#ff5339; font-family:'Georgia';">Project Information</span></em>
+## Project Information
 --- 
 * Project Name: <br/>
 Diet
@@ -24,7 +24,7 @@ This app is developed to do a diet for myself and my family. With this app user 
 :exclamation: ***Usable apk is inside [images-and-apk](images-and-apk/Diet.apk) folder*** :exclamation:
 
 
-### <em><span style="color:#ff5339; font-family:'Georgia';">Screenshots</span></em>
+## Screenshots
 ---
 
 ## Menu Page ##
