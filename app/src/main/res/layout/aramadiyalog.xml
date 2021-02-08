@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="550dp"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="Arama Yap"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="#f99"
+            android:textStyle="bold"
+            android:layout_height="match_parent"/>
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="3"
+            android:id="@+id/aramatext"
+            android:layout_margin="5dp"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="10dp">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="Yiyecek"
+            android:gravity="center|bottom"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="Pay"
+            android:gravity="center|bottom"
+            android:id="@+id/payTextView"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:textColor="#000"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="Gram"
+            android:id="@+id/gramTextView"
+            android:textSize="16dp"
+            android:gravity="center|bottom"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="0.7"
+            android:textSize="16dp"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_margin="10dp"
+        android:padding="5dp"
+        android:background="@drawable/kenarlik"
+        android:id="@+id/aramalist"
+        />
+
+</LinearLayout>

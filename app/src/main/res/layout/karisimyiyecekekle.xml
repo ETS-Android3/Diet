@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="10dp"
+    android:minWidth="300dp"
+    android:background="#87d4c5">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/butSecKarisimEkle"
+        android:background="#ffeadb"
+        android:layout_margin="5dp"
+        android:text="Yiyecek Seç" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="50dp">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="Pay Değeri"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:layout_height="match_parent"/>
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/payGirKarisimEkle"
+            android:hint="Kaç Pay Gir"
+            android:inputType="number"
+            android:digits="0123456789."
+            android:maxLength="6"
+            android:layout_marginRight="10dp"
+            android:layout_weight="2"
+            android:textColor="#712"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginLeft="10dp"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="50dp">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="Gram Değeri"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:layout_height="match_parent"/>
+        <EditText
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:maxLength="7"
+            android:id="@+id/gramGirKarisimEkle"
+            android:inputType="number"
+            android:digits="0123456789."
+            android:hint="Kaç Gram Gir"
+            android:textColor="#712"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_height="50dp">
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:id="@+id/butEkleKarisimEkle"
+            android:background="#f7c5a8"
+            android:text="Ekle"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+</LinearLayout>

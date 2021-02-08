@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Diyet"
+    android:background="#87d4c5">
+
+    <TextView
+        android:id="@+id/baslik"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ana Menü"
+        android:textColor="#679b9b"
+        android:layout_marginBottom="40dp"
+        android:textSize="40sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/butBugun"
+            android:layout_height="60dp"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:background="#ffeadb"
+            android:layout_marginBottom="20dp"
+            android:text="Bugün Hesapla"
+            android:textAllCaps="false" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/butYiyecek"
+            android:layout_height="60dp"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:background="#ffeadb"
+            android:layout_marginBottom="20dp"
+            android:text="Yiyecek Kaydet/Sil"
+            android:textAllCaps="false" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/butYiyecekKarisim"
+            android:layout_height="60dp"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:background="#ffeadb"
+            android:layout_marginBottom="20dp"
+            android:text="Yiyeceklerin Karışımından Oluşan Yemek Kaydet/Sil"
+            android:textAllCaps="false" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/butSonAy"
+            android:layout_height="60dp"
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:text="Son Bir Ay Kaydı"
+            android:layout_marginBottom="20dp"
+            android:background="#ffeadb"
+            android:textAllCaps="false" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/butkayitaktar"
+            android:layout_height="60dp"
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:text="Kayıtları Aktar"
+            android:layout_marginBottom="20dp"
+            android:background="#ffeadb"
+            android:textAllCaps="false" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/butAyarlar"
+            android:layout_height="60dp"
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:text="Ayarlar"
+            android:layout_marginBottom="20dp"
+            android:background="#ffeadb"
+            android:textAllCaps="false" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+</LinearLayout>

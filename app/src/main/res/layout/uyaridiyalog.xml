@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#87d4c5"
+    android:paddingBottom="10dp"
+    android:minWidth="400dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/uyaritv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/kenarlik"
+        android:fontFamily="sans-serif-medium"
+        android:padding="5dp"
+        android:text="Öncelikle Yiyecek Seçmelisiniz"
+        android:textColor="#595238"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="150dp"
+        android:text="ANLADIM"
+        android:id="@+id/uyaribut"
+        android:background="#dfd3c3"
+        android:layout_gravity="right"
+        android:layout_marginRight="10dp"
+        android:layout_height="40dp"/>
+
+</LinearLayout>
