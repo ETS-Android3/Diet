@@ -21,7 +21,12 @@ This app is developed to do a diet for myself and my family. With this app user 
 <br/>
 <br/>
 
-:exclamation: ***Usable apk is inside [images-and-apk](images-and-apk/Diet.apk) folder*** :exclamation:
+:exclamation: --------------------------------------------------------------------------------- :exclamation:
+
+- ***Usable apk is inside [images-and-apk](images-and-apk/Diet.apk) folder***
+
+:exclamation: --------------------------------------------------------------------------------- :exclamation:
+
 
 
 ### Screenshots
