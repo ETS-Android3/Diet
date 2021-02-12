@@ -8,7 +8,7 @@ Diet
 Fadıl Şahin
 <br>
 
-* Project Date: <br/>
+* Project Start Date: <br/>
 July 2020
 <br>
 
