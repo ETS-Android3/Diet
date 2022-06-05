@@ -17,7 +17,7 @@ Done, 3 days
 <br>
 
 * Project Description: <br/>
-This app is developed to do a diet for myself and my family. With this app user can save gram of a food for one portion ( 1 portion is 50 kcal ) and calculate how much should I eat today to lose weight. There is no restriction to create only a food, mixed foods contains another foods inside can be created. Also these lists can be transfered other app users via internet. User just need its ip address. But for modems in home, there can be need to port forwarding for a specific device.
+This app is developed to do diet. With this app user can save gram of a food for one portion ( 1 portion is 50 kcal ) and calculate how much should he/she eat in a day to lose weight. There is no restriction to create only a food. Mixed foods contains another foods inside can be created. Also these lists can be transfered other app users via internet (socket programming is used no server). To do that, ip address of the target phone is needed. But for modems in home, port forwarding settings have to be configured for a specific device.
 <br/>
 <br/>
 
